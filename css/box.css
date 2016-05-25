@@ -1,0 +1,29 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	margin: 20px auto;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#main_view{
+	padding: 100px 0px ;
+}
+
+#infomations{
+	margin: 20px auto;
+	font: nina 14px tahoma;
+	text-align: center;
+}
+
+#infomations .box{
+	margin-bottom: 20px;
+}
+
+#from{
+	font: italic 13px tahoma;
+	margin-right: ;
+}
